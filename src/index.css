@@ -1,0 +1,35 @@
+.content-imagen {
+  background-color: aqua;
+}
+
+.containerControl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.recuadro {
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+
+  background-color: #f8eef3;
+  padding: 60px;
+  border: 10px solid #29d2d8;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.TituloControl {
+  color: darkcyan;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.colorFecha {
+  background-color: white;
+}
